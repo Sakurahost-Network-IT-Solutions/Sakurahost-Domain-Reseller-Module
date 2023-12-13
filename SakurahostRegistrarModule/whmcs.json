@@ -1,0 +1,12 @@
+{
+  "schema": "1.0",
+  "type": "whmcs-addons",
+  "name": "SakurahostRegistrarModule",
+  "license": "proprietary",
+  "category": "domains",
+  "description": {
+    "name": "SakurahostRegistrarModule",
+    "tagline": "",
+    "long": "Resell a piece of the Tanzanian internet with a custom.TZ domain name! Sakurahost&#039;s dedicated.TZ Domain Registration Module makes it quick and easy for individuals and businesses to register their perfect domain name, directly from Tanzania&#039;s leading web hosting provider."
+  }
+}
